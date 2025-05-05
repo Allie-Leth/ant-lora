@@ -1,4 +1,3 @@
-// include/SX1262/Callbacks.h
 #pragma once
 
 #include <cstdint>

@@ -1,4 +1,3 @@
-// include/SX1262/Radio.h
 #pragma once
 
 #include "Config.h"

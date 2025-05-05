@@ -3,7 +3,7 @@
 
 #include <cstdint>
 #include <functional>
-#include "SX1262/Radio.h"
+#include "ant/radio/SX1262/Radio.h"
 
 namespace ant {
 namespace lora {

@@ -1,4 +1,3 @@
-// include/SX1262/ModemConfig.h
 #pragma once
 
 #include <cstdint>
