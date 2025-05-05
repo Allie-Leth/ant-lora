@@ -1,4 +1,5 @@
 # ant-lora
+`Work In Progress: This is not yet functional`
 
 `ant-lora` is the LoRa communications module of the Ant Firmware suite, designed for the ESP32 series devices but intending to be expanded overtime. V1 provides a portable C++ driver for the Semtech SX1262 radio, cleanly separating core logic from platform-specific details. Built on zero-allocation buffer utilities and optional structured logging, it’s designed to be unit-testable on the desktop with a mock HAL and easily integrated on-device. The simple public API lets you initialize the radio, send and receive packets, and manage power modes without getting bogged down in low-level SPI or GPIO calls.  
 
